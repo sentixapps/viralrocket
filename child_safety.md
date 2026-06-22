@@ -1,9 +1,9 @@
 # Child Safety Standards and CSAM Prevention Policy
 
-SentixApps (TikRocket) has a zero-tolerance policy regarding Child Sexual Abuse Material (CSAM) and the online exploitation of children. 
+SentixApps (**ViralRocket**) has a zero-tolerance policy regarding Child Sexual Abuse Material (CSAM) and the online exploitation of children. 
 
 ### 1. Prevention and Prohibition
-TikRocket is a utility tool for social media engagement. We strictly prohibit the use of our services for any activities that involve or promote the exploitation of minors. 
+**ViralRocket** is a utility tool for social media engagement. We strictly prohibit the use of our services for any activities that involve or promote the exploitation of minors. 
 
 ### 2. Reporting Mechanism
 Users can report any concerns related to child safety or suspicious activities directly to our team at: **startaitech@gmail.com**. Every report is investigated immediately.
