@@ -1,8 +1,8 @@
-# Privacy Policy for TikRocket
+# Privacy Policy for ViralRocket
 
-Last updated: May 15, 2026
+Last updated: June 23, 2026
 
-SentixApps ("us", "we", or "our") operates the TikRocket mobile application (the "Service").
+SentixApps ("us", "we", or "our") operates the ViralRocket mobile application (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -47,4 +47,4 @@ We may update our Privacy Policy from time to time. You are advised to review th
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
-**Email:** sentixapps@gmail.com
+**Email:** startaitech@gmail.com
